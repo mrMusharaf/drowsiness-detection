@@ -15,7 +15,7 @@ This project is aimed at detecting drowsiness in real-time using computer vision
 -Pygame (for audio alerts)
 **Installation**
 -Clone the repository:
-    git clone https://github.com/your_username/drowsiness-detection.git
+    git clone https://github.com/mrMusharaf/drowsiness-detection.git
 -Install dependencies:
     pip install -r requirements.txt
 **Usage**
